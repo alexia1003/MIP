@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <NumeUser>alexia</NumeUser>
+    <DataComanda>2024-01-18T10:04:14.05</DataComanda>
+    <Cantitate>1</Cantitate>
+    <ProdusId>2</ProdusId>
+  </Order>
+  <Order>
+    <NumeUser>hanna</NumeUser>
+    <DataComanda>2024-01-18T10:04:31.113</DataComanda>
+    <Cantitate>2</Cantitate>
+    <ProdusId>1</ProdusId>
+  </Order>
+</Orders>
